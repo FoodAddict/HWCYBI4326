@@ -1,5 +1,5 @@
 # Amadeus Dutremaine
-# 20482939
+
 # Instructions: For each problem, submit the Python program as typed text. Ensure you type your
 # solutions directly into a Word document. DO NOT include screenshots of the code.
 # 1. [25pt] Create Python script that performs the following:
